@@ -1,0 +1,13 @@
+# CPython
+__pycache__/
+*.pyc
+
+# Pycharm
+/.idea/
+
+# Test
+.pytest_cache/
+/.tox/
+
+# virtualenv
+/venv/
